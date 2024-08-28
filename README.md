@@ -65,6 +65,8 @@ Focus: September shows higher demand, so the company should ensure sufficient bi
 - NumPy - version 1.26.4
 - Seaborn - version 0.13.2
 - MatplotLib - version 3.9.1
+- sklearn - version 1.4.2
+- statsmodels - version 0.14.2
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
